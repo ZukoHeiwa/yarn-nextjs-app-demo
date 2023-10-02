@@ -26,6 +26,11 @@ Otherwise ddownload here https://nodejs.org/en, after the installation of npm yo
 ```
 npm install --global yarn
 ```
+Check installation:
+
+```
+yarn --version
+```
 
 Now you are ready to start with:
 
