@@ -1,6 +1,6 @@
 # yarn-nextjs-app-demo
 
-yarn-nextjs-app-demo is a simple webiste demo project made with Yarn package manager, NextJS, and Tailwindcss.
+yarn-nextjs-app-demo is a simple webiste demo project made with Npm package manager, NextJS, and Tailwindcss.
 
 ## Table of Contents
 
@@ -14,6 +14,21 @@ yarn-nextjs-app-demo is a simple webiste demo project made with Yarn package man
 ## Installation
 
 To run yarn-nextjs-app-demo on your local machine, follow these steps:
+
+Before installation make sure you have npm and nodejs
+```
+node -v
+npm -v
+```
+
+Otherwise ddownload here https://nodejs.org/en, after the installation of npm you can start with yarn installation:
+
+```
+npm install --global yarn
+```
+
+Now you are ready to start with:
+
 
 1. Clone the repository:
 
@@ -76,6 +91,7 @@ If you have questions, encounter issues, or want to get involved in the developm
 </a>
 </div>
 <br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zukoheiwa&show_icons=true&locale=en&layout=compact" alt="zukoheiwa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zukoheiwa&show_icons=true&locale=en" alt="zukoheiwa" /></p>
