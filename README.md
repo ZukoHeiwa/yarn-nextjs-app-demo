@@ -73,7 +73,7 @@ If you have questions, encounter issues, or want to get involved in the developm
 <a href="https://github.com/ZukoHeiwa" target="blank">
   <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=github" alt="github" />
 </a>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zukoheiwa&show_icons=true&locale=en&layout=compact" alt="zukoheiwa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zukoheiwa&show_icons=true&locale=en" alt="zukoheiwa" /></p>
