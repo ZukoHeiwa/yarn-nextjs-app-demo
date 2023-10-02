@@ -1,38 +1,79 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# yarn-nextjs-app-demo
 
-## Getting Started
+yarn-nextjs-app-demo is a simple webiste demo project made with Yarn package manager, NextJS, and Tailwind.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support and Contact](#support-and-contact)
+- [Author](#author)
+## Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To run yarn-nextjs-app-demo on your local machine, follow these steps:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+1. Clone the repository:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+    ```bash
+   git clone https://github.com/zukoheiwa/yarn-nextjs-app-demo.git
+    ```
+2. Navigate to the project directory:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+    ```bash
+    cd yarn-nextjs-app-demo
+    ```
+3. Install dependencies:
+    ```bash
+    yarn
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+4. Start the development:
+    ```bash
+    yarn dev
+    ```
 
-## Learn More
+# Usage
+Usage
+Once the app is running, open your web browser and access yarn-nextjs-app-demo at http://localhost:3000. Here's how you can use it:
 
-To learn more about Next.js, take a look at the following resources:
+- Try changing anything on index.js
+- simple template from Nextjs that you can change to your prefrence
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Features
+- javascript, tailwindcss, yarn packages
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Contributing
+We welcome contributions from the community! To contribute to yarn-nextjs-app-demo, please follow these guidelines:
+1. Fork the repository and create a new branch for your feature or bug fix.
+2. Make your changes, ensuring to maintain coding standards.
+3. Submit a pull request, describing your changes in detail.
 
-## Deploy on Vercel
+# License
+yarn-nextjs-app-demo is open-source software licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Support and Contact
+If you have questions, encounter issues, or want to get involved in the development, please contact me via:
+- 📫 via Email **zukoheiwabusiness@gmail.com**
+- 📄 via Issues https://github.com/zukoheiwa/yarn-nextjs-app-demo/issues 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Author
+&#8226; ZukoHeiwa
+
+<a href="https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank">
+  <img src="https://img.shields.io/badge/@ZukoHeiwa-red?style=for-the-badge&logo=twitter" alt="twitter" />
+</a>
+
+<a href="https://twitter.com/ZukoHeiwa" target="blank">
+  <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=youtube" alt="youtube" />
+</a>
+
+<a href="https://github.com/ZukoHeiwa" target="blank">
+  <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=github" alt="github" />
+</a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zukoheiwa&show_icons=true&locale=en&layout=compact" alt="zukoheiwa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zukoheiwa&show_icons=true&locale=en" alt="zukoheiwa" /></p>
