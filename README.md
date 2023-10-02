@@ -62,18 +62,20 @@ If you have questions, encounter issues, or want to get involved in the developm
 ## Author
 &#8226; ZukoHeiwa
 
+<div>
 <a href="https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank">
   <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=twitter" alt="twitter" />
 </a>
-
+<br>
 <a href="https://twitter.com/ZukoHeiwa" target="blank">
   <img src="https://img.shields.io/badge/@ZukoHeiwa-red?style=for-the-badge&logo=youtube" alt="youtube" />
 </a>
-
+<br>
 <a href="https://github.com/ZukoHeiwa" target="blank">
   <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=github" alt="github" />
 </a>
-<br>
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zukoheiwa&show_icons=true&locale=en&layout=compact" alt="zukoheiwa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zukoheiwa&show_icons=true&locale=en" alt="zukoheiwa" /></p>
