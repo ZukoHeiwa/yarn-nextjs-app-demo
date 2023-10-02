@@ -43,7 +43,7 @@ Once the app is running, open your web browser and access yarn-nextjs-app-demo a
 - simple template from Nextjs that you can change to your prefrence
 
 # Features
-- javascript, tailwindcss, yarn packages
+- Javascript, TailwindCSS, Yarn packages
 
 # Contributing
 We welcome contributions from the community! To contribute to yarn-nextjs-app-demo, please follow these guidelines:
