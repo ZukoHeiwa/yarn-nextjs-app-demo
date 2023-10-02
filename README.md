@@ -1,6 +1,6 @@
 # yarn-nextjs-app-demo
 
-yarn-nextjs-app-demo is a simple webiste demo project made with Yarn package manager, NextJS, and Tailwind.
+yarn-nextjs-app-demo is a simple webiste demo project made with Yarn package manager, NextJS, and Tailwindcss.
 
 ## Table of Contents
 
